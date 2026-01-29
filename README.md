@@ -6,10 +6,10 @@
 
 Infrastructure AI Application-Specific Integrated Circuits (ASICs) are specialized chips designed for specific AI tasks, offering superior performance-per-watt and lower, long-term costs compared to general-purpose GPUs, particularly for large-scale inference and training workloads. As of 2025-2026, the market is shifting towards custom silicon designed by major hyperscalers (Google, Amazon, Meta) and specialized startups (Groq, Cerebras) to reduce reliance on NVIDIA's CUDA ecosystem. 
 
-#### Google TPU (Tensor Processing Unit)
-Considered a leader in custom AI accelerators, TPUs are heavily optimized for matrix multiplications using systolic arrays, delivering exceptional performance for large-scale training.
-AWS Trainium & Inferentia: Annapurna Labs (an AWS subsidiary) produces these, with Trainium (training) and Inferentia (inference) providing 30% to 40% better price performance compared to other vendors in AWS.
-
+* **Google TPU (Tensor Processing Unit)**
+   * Considered a leader in custom AI accelerators, TPUs are heavily optimized for matrix multiplications using systolic arrays, delivering exceptional performance for large-scale training.
+* **AWS Trainium & Inferentia**
+   * Annapurna Labs (an AWS subsidiary) produces these, with Trainium (training) and Inferentia (inference) providing 30% to 40% better price performance compared to other vendors in AWS.
 * **Broadcom Custom ASICs**
     * Broadcom is a key enabler for custom silicon, collaborating with companies like Google and Meta to design proprietary chips, capturing a massive share of the custom AI chip market.
 * **Groq**
