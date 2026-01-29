@@ -12,18 +12,14 @@ AWS Trainium & Inferentia: Annapurna Labs (an AWS subsidiary) produces these, wi
 
 * Broadcom Custom ASICs
     * Broadcom is a key enabler for custom silicon, collaborating with companies like Google and Meta to design proprietary chips, capturing a massive share of the custom AI chip market.
-
-#### Groq
-Known for their Language Processing Units (LPUs), which are designed for high-speed, low-latency inference on Large Language Models (LLMs).
-
-#### Cerebras
-Focuses on massive wafer-scale chips (Wafer-Scale Engine 3) that are designed for high-performance training and efficiency.
-
-#### Meta (MTIA)
-Meta Training and Inference Accelerator (MTIA) is part of their in-house efforts to power AI recommendation systems.
-
-#### SambaNova
-Delivers high performance per watt on large models, boasting up to 5x better energy efficiency than GPU alternatives. 
+* Groq
+  * Known for their Language Processing Units (LPUs), which are designed for high-speed, low-latency inference on Large Language Models (LLMs).
+* Cerebras
+   * Focuses on massive wafer-scale chips (Wafer-Scale Engine 3) that are designed for high-performance training and efficiency.
+* Meta (MTIA)
+   * Meta Training and Inference Accelerator (MTIA) is part of their in-house efforts to power AI recommendation systems.
+* SambaNova
+   * Delivers high performance per watt on large models, boasting up to 5x better energy efficiency than GPU alternatives. 
 
 ---
 ### Comparison: ASICs vs. GPUs (NVIDIA)
